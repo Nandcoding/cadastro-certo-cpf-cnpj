@@ -1,5 +1,4 @@
 === Cadastro Certo – CPF e CNPJ Alfanumérico for WooCommerce ===
-Contributors: deltatech
 Tags: cpf, cnpj, brazil, checkout blocks, checkout fields
 Requires at least: 6.7
 Tested up to: 7.1
