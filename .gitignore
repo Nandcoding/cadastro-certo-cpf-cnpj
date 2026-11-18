@@ -1,0 +1,7 @@
+# Relatórios e ferramentas internas de teste (não vão para o repositório público)
+ENTREGA.md
+PUBLICACAO.md
+provas/
+tools/
+# O pacote sai como anexo do release
+dist/

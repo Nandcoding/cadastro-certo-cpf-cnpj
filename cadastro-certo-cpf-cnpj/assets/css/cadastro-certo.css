@@ -1,0 +1,9 @@
+/* Cadastro Certo: ajustes mínimos no checkout clássico. */
+#billing_cnpj,
+#billing_ie {
+	text-transform: uppercase;
+}
+
+#billing_cnpj_field .description {
+	font-size: 0.85em;
+}
