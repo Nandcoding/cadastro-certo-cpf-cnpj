@@ -44,7 +44,7 @@ Tela do pedido no painel, com tipo de pessoa, CNPJ, inscrição estadual, númer
 
 ## Instalação
 
-O plugin ainda não está no diretório do WordPress.org (o envio está em revisão). Até lá, instale pelo zip do release:
+O plugin não está no diretório do WordPress.org. Instale pelo zip do release:
 
 1. Baixe `cadastro-certo-cpf-cnpj.zip` na [página de releases](https://github.com/Nandcoding/cadastro-certo-cpf-cnpj/releases/latest) (o arquivo anexado, não o "Source code").
 2. No painel do WordPress, vá em Plugins > Adicionar novo > Enviar plugin, escolha o zip e ative.
@@ -102,7 +102,7 @@ Não. Toda a validação é feita no seu servidor e no navegador do cliente.
 * Testes dos validadores: `php tests/test-documentos.php` (exemplos oficiais do Serpro/Receita para o CNPJ alfanumérico, CNPJ e CPF numéricos, casos inválidos).
 * `assets-wporg/` tem ícone, faixa e capturas do diretório; `icon.svg` e `banner.svg` são as fontes (texto em Fira Sans e DejaVu Sans Mono).
 * Testado em WordPress 7.1, WooCommerce 11.3 e PHP 8.5; os validadores e a sintaxe de todos os arquivos também foram conferidos em PHP 7.4, 8.1 e 8.4.
-* O `readme.txt` do plugin está em inglês porque o diretório do WordPress.org exige desde julho de 2025; a tradução para português sai pelo translate.wordpress.org.
+* O `readme.txt` do plugin está em inglês, no formato que o diretório do WordPress.org pede; o texto em português é este README.
 
 ## Licença
 
